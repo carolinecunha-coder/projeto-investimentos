@@ -5,7 +5,7 @@ Este projeto utiliza Python para realizar uma análise de performance de ativos,
 ### 🎯 Objetivos da Análise
 * **Cálculo de Retorno Real:** Avaliar o ganho dos ativos descontando a inflação (IPCA).
 * **Volatilidade e Risco:** Analisar a variação de preços para entender o perfil de risco da alocação.
-* **Comparação com CDI:** Verificar se a estratégia de investimento superou o custo de oportunidade livre de risco.
+* **Comparação com CDI:** Validar se a estratégia de investimento superou o custo de oportunidade livre de risco.
 
 ### 🛠 Tecnologias Utilizadas
 * **Python:** Para processamento e automação dos cálculos.
