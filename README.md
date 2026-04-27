@@ -18,6 +18,9 @@ Este projeto utiliza Python para realizar uma análise de performance de ativos,
 2. **Normalização:** Ajuste de bases para comparação direta (Base 100).
 3. **Visualização:** Gráficos de linha para acompanhamento da rentabilidade acumulada.
    
+### 📊 Análise Visual
+![Tendências de Vendas](Gráfico.png)   
+
 ### 📝 Conclusões Observadas
 * Através da normalização para a Base 100, foi possível visualizar graficamente os períodos em que o ativo superou o CDI.
 * A análise do Retorno Real permitiu identificar a preservação do poder de compra frente ao IPCA no período selecionado.   
