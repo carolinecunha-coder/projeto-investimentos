@@ -21,6 +21,6 @@ Este projeto utiliza Python para realizar uma análise de performance de ativos,
 ### 📊 Análise Visual
 ![Tendências de Vendas](Gráfico.png)   
 
-### 📝 Conclusões Observadas
+### 📝 ### 📝 Resultados Obtidos
 * Através da normalização para a Base 100, foi possível visualizar graficamente os períodos em que o ativo superou o CDI.
 * A análise do Retorno Real permitiu identificar a preservação do poder de compra frente ao IPCA no período selecionado.   
