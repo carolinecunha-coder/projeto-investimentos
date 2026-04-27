@@ -17,9 +17,9 @@ Este projeto utiliza Python para realizar uma análise de performance de ativos,
 1. **Coleta:** Importação automatizada de cotações históricas.
 2. **Normalização:** Ajuste de bases para comparação direta (Base 100).
 3. **Visualização:** Gráficos de linha para acompanhamento da rentabilidade acumulada.
-   
-### 📈 Gráfico.png
-![Gráfico de Investimentos](Gráfico.png)  
+
+### 📈 Performance Acumulada (Base 100)
+![Gráfico de Investimentos](Gráfico.png)
 
 ### 📝 Resultados Obtidos
 
