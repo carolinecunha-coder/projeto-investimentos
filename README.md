@@ -23,5 +23,6 @@ Este projeto utiliza Python para realizar uma análise de performance de ativos,
 
 ### 📝 Resultados Obtidos
 
-* **Custo de Oportunidade:** A análise via Base 100 revelou que o CDI foi o benchmark dominante no período, superando significativamente o ativo analisado. Isso evidencia a atratividade da renda fixa frente ao risco da renda variável no intervalo estudado.
-* **Manutenção do Poder de Compra:** Observou-se uma correlação próxima entre o Ativo e o IPCA. Embora o ativo não tenha gerado um "Alfa" (ganho acima do benchmark), ele atuou como um hedge inflacionário, preservando o valor real do capital.
+* **Performance Superior (Alfa):** Através da normalização para a Base 100, observa-se que o ativo (PETR4) apresentou um desempenho significativamente superior ao CDI e ao IPCA no período analisado.
+* **Ganho Real:** A distância entre a linha azul (Ativo) e a linha tracejada verde (IPCA) demonstra um ganho real robusto, superando a inflação e o custo de oportunidade livre de risco.
+* **Validação Estratégica:** A análise gráfica comprova que a estratégia de alocação no ativo foi bem-sucedida em termos de rentabilidade absoluta e relativa.
