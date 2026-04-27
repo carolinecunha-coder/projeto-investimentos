@@ -18,7 +18,7 @@ Este projeto utiliza Python para realizar uma análise de performance de ativos,
 2. **Normalização:** Ajuste de bases para comparação direta (Base 100).
 3. **Visualização:** Gráficos de linha para acompanhamento da rentabilidade acumulada.
    
-### 📈 Performance Acumulada (Base 100)
+### 📈 Gráfico.png
 ![Gráfico de Investimentos](Gráfico.png)  
 
 ### 📝 Resultados Obtidos
