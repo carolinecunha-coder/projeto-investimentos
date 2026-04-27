@@ -1,24 +1,20 @@
-Comparativo de Investimentos: PETR4 vs CDI vs IPCA
-Este projeto realiza uma análise comparativa da rentabilidade acumulada das ações da Petrobras (PETR4) em relação aos principais indicadores da economia brasileira: o CDI (referência para renda fixa) e o IPCA (inflação).
+# 📉 Análise Quantitativa e Comparativa de Ativos Financeiros
 
-📊 Objetivo
-O script calcula o rendimento diário e acumulado de cada ativo para verificar se o investimento em ações superou a inflação e o benchmark de renda fixa no período selecionado.
+Este projeto utiliza Python para realizar uma análise de performance de ativos, comparando papéis de renda variável (ex: PETR4) com indicadores de referência do mercado brasileiro (Benchmarks), como o **CDI** e o **IPCA**.
 
-🛠️ Tecnologias Utilizadas
-Python: Linguagem principal.
+### 🎯 Objetivos da Análise
+* **Cálculo de Retorno Real:** Avaliar o ganho dos ativos descontando a inflação (IPCA).
+* **Volatilidade e Risco:** Analisar a variação de preços para entender o perfil de risco da alocação.
+* **Comparação com CDI:** Verificar se a estratégia de investimento superou o custo de oportunidade livre de risco.
 
-Pandas: Para manipulação e tratamento dos dados financeiros.
+### 🛠 Tecnologias Utilizadas
+* **Python:** Para processamento e automação dos cálculos.
+* **Pandas:** Manipulação de séries temporais financeiras.
+* **YFinance:** Extração de dados históricos diretamente da B3/Yahoo Finance.
+* **Matplotlib/Seaborn:** Visualização de curvas de patrimônio e correlações.
 
-Matplotlib: Para a geração do gráfico comparativo.
-
-YFinance: Para a extração de dados reais da bolsa de valores.
-## 🚀 Como rodar o projeto
-
-Para executar este script na sua máquina, siga os passos abaixo:
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/carolinecunha-coder/projeto-investimentos.git](https://github.com/carolinecunha-coder/projeto-investimentos.git)
-   pip install pandas matplotlib yfinance
-   python analise_investimentos.py
+### 📊 Metodologia Analítica
+1. **Coleta:** Importação automatizada de cotações históricas.
+2. **Normalização:** Ajuste de bases para comparação direta (Base 100).
+3. **Visualização:** Gráficos de linha para acompanhamento da rentabilidade acumulada.
    
