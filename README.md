@@ -25,4 +25,4 @@ Este projeto utiliza Python para realizar uma análise de performance de ativos,
 
 * **Performance Superior (Alfa):** Através da normalização para a Base 100, observa-se que o ativo (PETR4) apresentou um desempenho significativamente superior ao CDI e ao IPCA no período analisado.
 * **Ganho Real:** A distância entre a linha azul (Ativo) e a linha tracejada verde (IPCA) demonstra um ganho real robusto, superando a inflação e o custo de oportunidade livre de risco.
-* **Validação Estratégica:** A análise gráfica comprova que a estratégia de alocação no ativo foi bem-sucedida em termos de rentabilidade absoluta e relativa.
+* **Validação Estratégica:** Análise gráfica comprova que a estratégia de alocação no ativo foi bem-sucedida em termos de rentabilidade absoluta e relativa.
