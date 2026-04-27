@@ -21,6 +21,7 @@ Este projeto utiliza Python para realizar uma análise de performance de ativos,
 ### 📊 Análise Visual
 ![Tendências de Vendas](Gráfico.png)   
 
-### 📝 ### 📝 Resultados Obtidos
-* Através da normalização para a Base 100, foi possível visualizar graficamente os períodos em que o ativo superou o CDI.
-* A análise do Retorno Real permitiu identificar a preservação do poder de compra frente ao IPCA no período selecionado.   
+### 📝 Resultados Obtidos
+
+* **Custo de Oportunidade:** A análise via Base 100 revelou que o CDI foi o benchmark dominante no período, superando significativamente o ativo analisado. Isso evidencia a atratividade da renda fixa frente ao risco da renda variável no intervalo estudado.
+* **Manutenção do Poder de Compra:** Observou-se uma correlação próxima entre o Ativo e o IPCA. Embora o ativo não tenha gerado um "Alfa" (ganho acima do benchmark), ele atuou como um hedge inflacionário, preservando o valor real do capital.
